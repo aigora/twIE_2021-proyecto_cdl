@@ -10,4 +10,4 @@ Alvaro Requena Porcuna/alvaroorequenaa, Jose Luis Torres García/Cholis2020, Her
 
 ## Objetivos del trabajo
 El objetivo es rellenar las celdas vacías, con un número en cada una de ellas, de tal forma que cada columna, fila y región contenga los números 1–9 solo una vez.
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+
