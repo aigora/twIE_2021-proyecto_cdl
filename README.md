@@ -7,8 +7,11 @@ Algunas celdas ya contienen números, conocidos como "números dados" (o a veces
 ## Integrantes del equipo
 
 Alvaro Requena Porcuna     @alvaroorequenaa
+
 Jose Luis Torres García    @Cholis2020
+
 Hernan Quilleré Arana      @HernanQuillere
+
 Manuel  Sandin Moreno      @manusandin
 
 ## Objetivos del trabajo
