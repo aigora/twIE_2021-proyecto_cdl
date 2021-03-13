@@ -4,7 +4,7 @@
 
 ## Integrantes del equipo
 
-Alvaro Requena/alvaroorequenaa, Jose Luis Torres García/Cholis2020, Hernan Quilleré/HernanQuillere, Manuel Angel Sandin Moreno/manusandin
+Alvaro Requena Porcuna/alvaroorequenaa, Jose Luis Torres García/Cholis2020, Hernan Quilleré Arana/HernanQuillere, Manuel Angel Sandin Moreno/manusandin
 
 ## Objetivos del trabajo
 
