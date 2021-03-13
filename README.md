@@ -1,11 +1,13 @@
 # [Título del trabajo]
-Pasapalabra.
-Vamos a crear a un juego inspirado en el programa de televisión llamado pasapalabra.
+Sudoku.
+El sudoku se presenta normalmente como una tabla de 9 × 9, compuesta por subtablas de 3 × 3 denominadas "regiones" (también se le llaman "cajas" o "bloques").
+
+Algunas celdas ya contienen números, conocidos como "números dados" (o a veces "pistas")
 
 ## Integrantes del equipo
 
 Alvaro Requena Porcuna/alvaroorequenaa, Jose Luis Torres García/Cholis2020, Hernan Quilleré Arana/HernanQuillere, Manuel Angel Sandin Moreno/manusandin
 
 ## Objetivos del trabajo
-
+El objetivo es rellenar las celdas vacías, con un número en cada una de ellas, de tal forma que cada columna, fila y región contenga los números 1–9 solo una vez.
 [Lista de los objetivos que se persiguen con el trabajo propuesto.]
