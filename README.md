@@ -1,6 +1,6 @@
 # [Título del trabajo]
-¿Quién quiere ser millonario?
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Pasapalabra.
+Vamos a crear a un juego inspirado en el programa de televisión llamado pasapalabra.
 
 ## Integrantes del equipo
 
