@@ -1,7 +1,7 @@
 # Sudoku
-El sudoku se presenta normalmente como una tabla de 9 × 9 casillas, compuesta por subtablas de 3 × 3 denominadas "regiones" (también se le llaman "cajas" o "bloques").
+Programa de sudoku que presenta una tabla de 9 × 9 casillas, compuesta por subtablas de 3 × 3 denominadas "regiones".
 
-Algunas celdas ya contienen números, conocidos como "números dados" (o a veces "pistas")
+Algunas celdas ya contienen números, conocidos como "números dados" (o a veces "pistas") y otras están vacias, estas deberán ser rellenadas durante el transcurso del juego.
 
 
 ## Integrantes del equipo
@@ -15,4 +15,8 @@ Algunas celdas ya contienen números, conocidos como "números dados" (o a veces
 -Manuel  Sandin Moreno      @manusandin
 
 ## Objetivos del trabajo
-El objetivo es rellenar las celdas vacías, con un número en cada una de ellas, de tal forma que cada columna, fila y región contenga los números 1–9 solo una vez.
+El objetivo es crear un programa de un sudoku como el adjuntado abajo que permita al usuario rellenar las celdas vacías, con un número del 1 al 9 en cada una de ellas, de tal forma que cada columna, fila y región contenga los números 1 al 9 solo una vez.
+
+Si el usuario introdujese un número erróneo en alguna de las celdas el programa se lo notificaría, permitiendo al usuario un número máximo de fallos.
+
+![Imagen de sudoku](https://upload.wikimedia.org/wikipedia/commons/f/ff/Sudoku-by-L2G-20050714.svg)
