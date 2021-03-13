@@ -1,4 +1,4 @@
-# [Título del trabajo]
+# [Sudoku]
 Sudoku.
 El sudoku se presenta normalmente como una tabla de 9 × 9, compuesta por subtablas de 3 × 3 denominadas "regiones" (también se le llaman "cajas" o "bloques").
 
