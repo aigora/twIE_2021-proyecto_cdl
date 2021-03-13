@@ -4,7 +4,7 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Alvaro Requena/alvaroorequenaa, Jose Luis Torre Garcia/Cholis2020, Hernan Quilleré/HernanQuillere
 
 ## Objetivos del trabajo
 
