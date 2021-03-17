@@ -6,13 +6,13 @@ Algunas celdas ya contienen números, conocidos como "números dados" (o a veces
 
 ## Integrantes del equipo
 
-- Alvaro Requena Porcuna    @alvaroorequenaa
+- **Alvaro Requena Porcuna** - [alvaroorequenaa](https://github.com/alvaroorequenaa)
 
-- Jose Luis Torres García   @Cholis2020
+- **Jose Luis Torres García** - [Cholis2020](https://github.com/Cholis2020)
       
-- Hernan Quilleré Arana     @HernanQuillere
+- **Hernan Quilleré Arana**    -[HernanQuillere](https://github.com/HernanQuillere)
     
-- Manuel  Sandin Moreno     @manusandin
+- **Manuel  Sandin Moreno**     -  [manusandin](https://github.com/manusandin)
 
 ## Objetivos del trabajo
 El objetivo es crear un programa de un sudoku como el adjuntado abajo que permita al usuario rellenar las celdas vacías, con un número del 1 al 9 en cada una de ellas, de tal forma que cada columna, fila y región contenga los números 1 al 9 solo una vez.
