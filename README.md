@@ -1,7 +1,7 @@
 # Sudoku
 Programa de sudoku que presenta una tabla de 9 × 9 casillas, compuesta por subtablas de 3 × 3 denominadas "regiones".
 
-Algunas celdas ya contienen números, conocidos como "números dados" (o a veces "pistas") y otras están vacias, estas deberán ser rellenadas durante el transcurso del juego.
+Algunas celdas ya contienen números, conocidos como "números dados" (o a veces "pistas") y otras están vacías, estas deberán ser rellenadas durante el transcurso del juego.
 
 
 ## Integrantes del equipo
