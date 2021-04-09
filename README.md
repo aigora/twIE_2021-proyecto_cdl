@@ -10,7 +10,7 @@ Algunas celdas ya contienen números, conocidos como "números dados" (o a veces
 
 - **Jose Luis Torres García** - [Cholis2020](https://github.com/Cholis2020)
       
-- **Hernan Quilleré Arana**    -[HernanQuillere](https://github.com/HernanQuillere)
+- **Hernan Quilleré Arana**    - [HernanQuillere](https://github.com/HernanQuillere)
     
 - **Manuel  Sandin Moreno**     -  [manusandin](https://github.com/manusandin)
 
