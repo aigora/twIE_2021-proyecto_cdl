@@ -1,22 +1,36 @@
 #include <stdio.h>
 int main(){
-  int opciones;
-
   printf("\tSUDOKU\n");
+  int opciones, dificultad;
+
+
   printf("1. Reglas\n");
   printf("2. Jugar\n");
   printf("3. Salir\n");
   scanf("%i",&opciones);
 
   switch(opciones){
-    case 1: printf("/nRegla1: hay que completar las casillas vacias con un solo numero del 1 al 9");
-    printf("/nRegla2: en una misma fila no puede haber numeros repetidos");
-    printf("/nRegla3: en una misma columna no puede haberr numeros repetidos");
-    printf("/nRegla4: en una misma region no puede haber numeros repetidos");
-    printf("/nRegla5: la solucion de un sudoku es unica");
+    case 1:
+    printf("Regla1: Hay que completar las casillas vacías con un solo número del 1 al 9.\n");
+    printf("Regla2: En una misma fila no puede haber números repetidos.\n");
+    printf("Regla3: En una misma columna no puede haber números repetidos.\n");
+    printf("Regla4: En una misma región no puede haber números repetidos.\n");
+    printf("Regla5: La solución de un Sudoku es única.\n");
     break;
 
-    case 2: printf("/nSeleccione dificultad");
+    case 2: printf("Seleccione dificultad:\n");
+    printf("1. Fácil\n");
+    printf("2. Intermedio\n");
+    printf("3. Difícil\n");
+    scanf("%i",&dificultad);
+    switch(dificultad){
+    case 1:
+
+    case 2:
+
+    case 3:
+        break;
+        }
     break;
 
     case 3: break;
